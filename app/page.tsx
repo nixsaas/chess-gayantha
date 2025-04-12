@@ -32,7 +32,7 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-center gap-12">
             <div className="md:w-1/2">
               <Image
-                src="../pexels-cottonbro-8427602.jpg"
+                src="../public/pexels-cottonbro-8427602.jpg"
                 alt="Chess Tutor"
                 width={600}
                 height={600}
